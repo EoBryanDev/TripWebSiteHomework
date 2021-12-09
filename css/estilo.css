@@ -1,0 +1,23 @@
+.bg-titulo{
+    background: url(../imagens/cidade.jpeg);
+}
+
+.texto-descritivo{
+    font-size: 9.5px;
+}
+
+table thead tr th{
+    background: #000;
+    color: #fff;
+    
+}
+
+.padding-da-td{
+    padding: 10px;
+}
+.beneficios{
+    color: #444;
+}
+.semborda{
+    border: none;
+}
